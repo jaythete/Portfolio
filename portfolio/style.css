@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(169, 169, 169);
+    font-family: Oswald;
+}
+
+.main {
+    background-color: rgb(169, 169, 169);
+    width: 80vw;
+}
+
+.container {
+    display: flex;
+    border-radius: 10px;
+}
+
+.infocontainer {
+    background-color: rgb(169, 169, 169);
+    height: 70vh;
+    width: 80vw;
+    margin: 144px auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.devinfo {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.hello {
+    font-size: 85px;
+}
+
+.name {
+    font-size: 70px;
+    font-weight: bold;
+
+}
+
+.jst {
+    color: aqua;
+}
+
+.about {
+    font-size: 50px;
+}
+
+.moreabout {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.buttons button {
+    margin-top: 33px;
+
+}
+
+.buttons button {
+    padding: 9px 3px;
+    border-radius: 15px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    font-size: 21px;
+    margin: 0 3 px;
+    cursor: pointer;
+}
+
+.buttons button:hover {
+    color: black;
+    background-color: white;
+}
+
+.devpic img {
+    height: 70vh;
+
+}
+
+#introh1 {
+    text-align: center;
+    margin: 20px;
+}
+
+.introp {
+    margin: 10px;
+}
+
+#servicesh1 {
+    text-align: center;
+    margin: 30px;
+}
+
+#followush1 {
+    margin: 20px;
+    text-align: center;
+}
+
+#followush2 {
+    margin: 20px;
+    text-decoration-color: black;
+}
+
+#insta {
+    height: 40px;
+    width: 40px;
+    margin: 30px;
+}
+
+#twitter {
+    height: 40px;
+    width: 40px;
+    margin: 30px;
+}
+
+#linkedin {
+    height: 40px;
+    width: 40px;
+    margin: 30px;
+}
+
+#cvbtn {
+    color: inherit;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#cvbtn:hover {
+    color: black;
+    background-color: white;
+}
+
+#cmbtn {
+    color: inherit;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#cmbtn:hover {
+    color: black;
+    background-color: white;
+}
+.pj {
+    background-color: aqua;
+}
